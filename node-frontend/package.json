@@ -1,0 +1,12 @@
+{
+  "name": "ninu-frontend",
+  "version": "1.0.0",
+  "description": "CLI frontend for Ninu AI assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
